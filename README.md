@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name si Victor Grycajuk</h1>
+<h1 align="center">Hi 👋, my name is Victor Grycajuk</h1>
 <h3 align="center">I'm extremely passionate about product development. Hardware and Software!</h3>
 
 - 🔭 I’m currently working on **developing hardware for wireless aplications.**
