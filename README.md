@@ -11,10 +11,96 @@
 
 - ⚡ Fun fact: **I love 3D modeling and 3D printing.**
 
+
+
+<!-- Card de linguagens mais usadas (via GitHub Readme Stats) -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGryca&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/victorgrycajuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victorgrycajuk/" height="30" width="40" /></a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left">
+  <!-- Hardware & Low-Level -->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+      alt="Arduino"
+      width="40" height="40"
+    />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      alt="C"
+      width="40" height="40"
+    />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      alt="C++"
+      width="40" height="40"
+    />
+  </a>
+
+  <!-- Web & Full-Stack -->
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      alt="JavaScript"
+      width="40" height="40"
+    />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      alt="Python"
+      width="40" height="40"
+    />
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      alt="Node.js"
+      width="40" height="40"
+    />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      alt="Express"
+      width="40" height="40"
+    />
+  </a>
+
+  <!-- Bancos de Dados & Backend -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      alt="PostgreSQL"
+      width="40" height="40"
+    />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg"
+      alt="Supabase"
+      width="40" height="40"
+    />
+  </a>
+</p>
+
+
+
