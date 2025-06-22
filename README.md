@@ -24,13 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Hardware & Low-Level -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-      alt="Arduino"
-      width="40" height="40"
-    />
-  </a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
