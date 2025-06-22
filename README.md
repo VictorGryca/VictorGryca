@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/victorgrycajuk/](https://www.linkedin.com/in/victorgrycajuk/)
 
-- ⚡ Fun fact **I love 3D modeling and 3D printing.**
+- ⚡ Fun fact: **I love 3D modeling and 3D printing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
